@@ -25,4 +25,4 @@ Law firms accumulate thousands of case documents. Acervo lets a lawyer find the 
 Four development phases delivered. Running locally with Docker; not yet publicly deployed.
 
 ## Contact
-Giann Luca Battistutta · linkedin.com/in/[seu-perfil]
+Giann Luca Battistutta · linkedin.com/in/GiannBattistutta
